@@ -1,6 +1,4 @@
 import streamlit as st
-import json
-from streamlit_lottie import st_lottie
 # ----configuring page
 st.set_page_config(page_title="My Webpage", page_icon="👨‍💻", layout="wide")
 st.subheader("Hi, I am Kgaogelo Moela")
